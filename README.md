@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, me chamo Cássia Letícia 😎
 
-<!--
-**cassialuz/cassialuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻 Sou gaúcha e moro em Esteio - RS <br>
+📆 Tenho 33 anos.<br>
+👩🏻‍🎓 Estou no 4º semestre de ADS.<br>
+📓 Estou estudando FrontEnd.<br>
+🎨 Já estudei Design Gráfico e curto demais trabalhar com FIGMA e Illustrator.<br>
+🎮 Nas horas vagas gosto de assistir série ou jogar.<br>
+💼 Estou buscando uma oportunidade na área de Desenvolvimento FrontEnd, seja estágio ou efetivo.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassialuz&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/cassia-leticia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
