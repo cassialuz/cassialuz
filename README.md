@@ -3,8 +3,8 @@ Olá, me chamo Cássia Letícia 😎
 👩🏻 Sou gaúcha e moro em Esteio - RS <br>
 📆 Tenho 35 anos.<br>
 👩🏻‍🎓 Sou formada em ADS.<br>
+🖥️​ Atualmente trabalho com suporte técnico
 📓 Estou estudando FrontEnd.<br>
-🎨 Já estudei Design Gráfico e curto demais trabalhar com FIGMA e Illustrator.<br>
 🎮 Nas horas vagas gosto de assistir série ou jogar.<br>
 
 
